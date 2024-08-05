@@ -1,0 +1,33 @@
+AWar and Peace,Leo Tolstoy,The Russian Messenger,1234567890123,1225,1,Fiction,NotRare,true
+APride and Prejudice,Jane Austen,Thomas Egerton,1234567890124,432,2,Fiction,NotRare,true
+AThe Great Gatsby,F. Scott Fitzgerald,Charles Scribner's Sons,1234567890125,200,3,Fiction,NotRare,true
+M
+John Doe
+M
+Jane Doe
+B
+John Doe
+1
+-7
+B
+Jane Doe
+2
+-14
+C
+John Doe
+C
+Jane Doe
+R
+John Doe
+1
+R
+Jane Doe
+2
+AThe Great Gatsby,F. Scott Fitzgerald,Charles Scribner's Sons,1234567890125,200,3,Fiction,NotRare,true
+B
+Jane Doe
+2
+5
+R
+John Doe
+2

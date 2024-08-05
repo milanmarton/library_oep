@@ -1,0 +1,16 @@
+Title,Author,Publisher,ISBN,PageCount,ID,Genre,Rarity,Available
+War and Peace,Leo Tolstoy,The Russian Messenger,1234567890123,1225,1,Fiction,NotRare,true
+Pride and Prejudice,Jane Austen,Thomas Egerton,1234567890124,432,2,Fiction,NotRare,true
+The Great Gatsby,F. Scott Fitzgerald,Charles Scribner's Sons,1234567890125,200,3,Fiction,NotRare,true
+To Kill a Mockingbird,Harper Lee,J.B. Lippincott & Co.,1234567890126,324,4,Fiction,NotRare,true
+The Origin of Species,Charles Darwin,John Murray,1234567890127,502,5,Nature,NotRare,true
+A Brief History of Time,Stephen Hawking,Bantam Books,1234567890128,256,6,Nature,NotRare,true
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic,1234567890129,336,7,Juvenile,NotRare,true
+The Cat in the Hat,Dr. Seuss,Random House,1234567890130,72,8,Juvenile,NotRare,true
+Animal Farm,George Orwell,Secker and Warburg,1234567890131,144,9,Fiction,NotRare,true
+Moby-Dick,Herman Melville,Harper & Brothers,1234567890132,635,10,Fiction,Rare,true
+The Hobbit,J.R.R. Tolkien,George Allen & Unwin,1234567890133,310,11,Fiction,NotRare,true
+The Very Hungry Caterpillar,Eric Carle,World Publishing Company,1234567890134,26,12,Juvenile,NotRare,true
+The Da Vinci Code,Dan Brown,DoubleDay,1234567890135,689,13,Fiction,Rare,true
+The Selfish Gene,Richard Dawkins,Oxford University Press,1234567890136,224,14,Nature,NotRare,true
+The Tale of Peter Rabbit,Beatrix Potter,Frederick Warne & Co.,1234567890137,72,15,Juvenile,NotRare,true

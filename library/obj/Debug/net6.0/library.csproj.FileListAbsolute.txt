@@ -1,0 +1,15 @@
+C:\Users\Milan\OneDrive - Eotvos Lorand Tudomanyegyetem\II. Semester\Objektum orientalt progi\library\bin\Debug\net6.0\library.exe
+C:\Users\Milan\OneDrive - Eotvos Lorand Tudomanyegyetem\II. Semester\Objektum orientalt progi\library\bin\Debug\net6.0\library.deps.json
+C:\Users\Milan\OneDrive - Eotvos Lorand Tudomanyegyetem\II. Semester\Objektum orientalt progi\library\bin\Debug\net6.0\library.runtimeconfig.json
+C:\Users\Milan\OneDrive - Eotvos Lorand Tudomanyegyetem\II. Semester\Objektum orientalt progi\library\bin\Debug\net6.0\library.dll
+C:\Users\Milan\OneDrive - Eotvos Lorand Tudomanyegyetem\II. Semester\Objektum orientalt progi\library\bin\Debug\net6.0\library.pdb
+C:\Users\Milan\OneDrive - Eotvos Lorand Tudomanyegyetem\II. Semester\Objektum orientalt progi\library\obj\Debug\net6.0\library.csproj.AssemblyReference.cache
+C:\Users\Milan\OneDrive - Eotvos Lorand Tudomanyegyetem\II. Semester\Objektum orientalt progi\library\obj\Debug\net6.0\library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milan\OneDrive - Eotvos Lorand Tudomanyegyetem\II. Semester\Objektum orientalt progi\library\obj\Debug\net6.0\library.AssemblyInfoInputs.cache
+C:\Users\Milan\OneDrive - Eotvos Lorand Tudomanyegyetem\II. Semester\Objektum orientalt progi\library\obj\Debug\net6.0\library.AssemblyInfo.cs
+C:\Users\Milan\OneDrive - Eotvos Lorand Tudomanyegyetem\II. Semester\Objektum orientalt progi\library\obj\Debug\net6.0\library.csproj.CoreCompileInputs.cache
+C:\Users\Milan\OneDrive - Eotvos Lorand Tudomanyegyetem\II. Semester\Objektum orientalt progi\library\obj\Debug\net6.0\library.dll
+C:\Users\Milan\OneDrive - Eotvos Lorand Tudomanyegyetem\II. Semester\Objektum orientalt progi\library\obj\Debug\net6.0\refint\library.dll
+C:\Users\Milan\OneDrive - Eotvos Lorand Tudomanyegyetem\II. Semester\Objektum orientalt progi\library\obj\Debug\net6.0\library.pdb
+C:\Users\Milan\OneDrive - Eotvos Lorand Tudomanyegyetem\II. Semester\Objektum orientalt progi\library\obj\Debug\net6.0\library.genruntimeconfig.cache
+C:\Users\Milan\OneDrive - Eotvos Lorand Tudomanyegyetem\II. Semester\Objektum orientalt progi\library\obj\Debug\net6.0\ref\library.dll
